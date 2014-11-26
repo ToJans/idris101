@@ -4,7 +4,7 @@ idris101
 Goal
 ----
 
-This is a learning project by a group of people interested in learning [the Idris language](http://www.idris-lang.org/), a a functional programming language with [dependent types](http://en.wikipedia.org/wiki/Dependent_type).
+This is a learning project by a group of people interested in learning [the Idris language](http://www.idris-lang.org/), a functional programming language with [dependent types](http://en.wikipedia.org/wiki/Dependent_type).
 
 The goal would be to have [the bowling kata](http://codingdojo.org/cgi-bin/index.pl?KataBowling) written in the Idris language by the time we go to [BuildStuff 2015](http://buildstuff.lt/), probably November 2015.
 
@@ -16,7 +16,7 @@ Joining
 
 People that want to join need to send a pull request for this readme and add themselves, their github account name and their timezone.
 
-You can do his by editing the file here: https://github.com/ToJans/idris101/edit/master/README.md
+You can do this by editing the file here: https://github.com/ToJans/idris101/edit/master/README.md
 
 * Andrew Jones - @andrewscj - UTC+0 (DST)
 * Tom Janssens - @ToJans - UTC+1 (DST)

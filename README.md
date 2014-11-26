@@ -6,6 +6,9 @@ This is a learning project by a group of people interested in learning [the Idri
 The goal would be to have [the bowling kata](http://codingdojo.org/cgi-bin/index.pl?KataBowling) written in the Idris language by the time we go to [BuildStuff 2015](http://buildstuff.lt/), probably November 2015.
 
 People that want to join need to send a pull request for this readme and add themselves, their github account name and their timezone.
+
+You can dot his by editing the file here: https://github.com/ToJans/idris101/edit/master/README.md
+
 * Tom Janssens - @ToJans - UTC+1 (DST)
 * [name] - [username] - [timezone + daylight saving time or not]
 

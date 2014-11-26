@@ -28,3 +28,10 @@ Further steps
 -------------
 
 Depending on the number of people interested in joining we might need to figure out how to properly co-op, but that's something we can figure out later. For now we'd first need to know how many people want to join us.
+
+Some further learning
+---------------------
+
+In case you'd want to get a feel of what we're trying to grasp, we've set up [a preliminary page with some video tutorials](https://github.com/ToJans/idris101/wiki/Video-tutorials) on the wiki.
+
+Note that it's ok if we don't grasp this yet; the idea would be to figure it out with this group over the course of a full year (so baby steps all the way).

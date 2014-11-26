@@ -9,6 +9,7 @@ People that want to join need to send a pull request for this readme and add the
 
 You can do his by editing the file here: https://github.com/ToJans/idris101/edit/master/README.md
 
+* Andrew Jones - @andrewscj - UTC+0 (DST)
 * Tom Janssens - @ToJans - UTC+1 (DST)
 * [name] - [username] - [timezone + daylight saving time or not]
 

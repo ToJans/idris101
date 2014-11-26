@@ -7,7 +7,7 @@ The goal would be to have [the bowling kata](http://codingdojo.org/cgi-bin/index
 
 People that want to join need to send a pull request for this readme and add themselves, their github account name and their timezone.
 
-You can dot his by editing the file here: https://github.com/ToJans/idris101/edit/master/README.md
+You can do his by editing the file here: https://github.com/ToJans/idris101/edit/master/README.md
 
 * Tom Janssens - @ToJans - UTC+1 (DST)
 * [name] - [username] - [timezone + daylight saving time or not]

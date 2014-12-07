@@ -22,6 +22,7 @@ You can do this by editing the file here: https://github.com/ToJans/idris101/edi
 * Tom Janssens - @ToJans - UTC+1 (DST)
 * Koen Metsu - @koenmetsu - UTC+1 (DST)
 * Antonios Klimis - @antoniosklimis - UTC+2 (DST)
+* Greg Young - @gregyoung - UTC+2
 * [name] - [username] - [timezone + daylight saving time or not]
 
 Please order this list by timezones.

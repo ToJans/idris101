@@ -1,6 +1,8 @@
 idris101
 ========
 
+>If you want to join this learning project, please send your pull request **before** the 15th of December 2014, as we'll stop accepting requests after that date.
+
 Goal
 ----
 

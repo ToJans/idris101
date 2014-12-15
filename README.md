@@ -21,6 +21,14 @@ Members
 * Antonios Klimis - @antoniosklimis - UTC+2 (DST)
 * Greg Young - @gregyoung - UTC+2
 * Bartul Bonacic - @bartul - UTC+4
+ 
+Social media etc
+----------------
+
+For now I don't see the added value of having a twitter account etc. I'd assume the hashtag `#Idris101` should be 
+sufficient. Opinions are welcome!
+
+Link to relevant tweets [here](https://twitter.com/hashtag/idris101?src=hash)
 
 Some further learning
 ---------------------

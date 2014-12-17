@@ -15,6 +15,8 @@ Members
 -------
 
 * Andrew Jones - @andrewscj - UTC+0 (DST)
+* Frank Bedlam - I don't tweet - UTC+0 (DST)
+* Ryan Roberts - @ryansroberts - UTC+0 (DST)
 * Tom Janssens - @ToJans - UTC+1 (DST)
 * Koen Metsu - @koenmetsu - UTC+1 (DST)
 * Jef Claes - @JefClaes - UTC + 1 (DST)
@@ -22,7 +24,6 @@ Members
 * Antonios Klimis - @antoniosklimis - UTC+2 (DST)
 * Greg Young - @gregyoung - UTC+2
 * Bartul Bonacic - @bartul - UTC+4
-* Frank Bedlam - I don't tweet - UTC+0 (DST)
  
 Social media etc
 ----------------

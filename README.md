@@ -17,6 +17,7 @@ Members
 * Andrew Jones - @andrewscj - UTC+0 (DST)
 * Frank Bedlam - I don't tweet - UTC+0 (DST)
 * Ryan Roberts - @ryansroberts - UTC+0 (DST)
+* Lee Crossley - @lee_crossley - UTC+0 (DST)
 * Tom Janssens - @ToJans - UTC+1 (DST)
 * Koen Metsu - @koenmetsu - UTC+1 (DST)
 * Jef Claes - @JefClaes - UTC + 1 (DST)

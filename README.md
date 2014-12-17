@@ -26,6 +26,7 @@ Members
 * Antonios Klimis - @antoniosklimis - UTC+2 (DST)
 * Greg Young - @gregyoung - UTC+2
 * Bartul Bonacic - @bartul - UTC+4
+* Paul Szulc - @rabbitonweb - UTC+1 
  
 Social media etc
 ----------------

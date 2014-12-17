@@ -22,6 +22,7 @@ Members
 * Antonios Klimis - @antoniosklimis - UTC+2 (DST)
 * Greg Young - @gregyoung - UTC+2
 * Bartul Bonacic - @bartul - UTC+4
+* Frank Bedlam - I don't tweet - UTC+0 (DST)
  
 Social media etc
 ----------------

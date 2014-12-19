@@ -27,6 +27,7 @@ Members
 * Greg Young - @gregyoung - UTC+2
 * Bartul Bonacic - @bartul - UTC+4
 * Paul Szulc - @rabbitonweb - UTC+1 
+* Andreas Schlapsi - @aschlapsi - UTC+1 (DST)
  
 Social media etc
 ----------------

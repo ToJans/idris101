@@ -1,3 +1,5 @@
 ### Idris ###
 *.ibc
 *.o
+*.dll
+*.exe

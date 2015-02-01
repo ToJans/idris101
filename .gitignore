@@ -3,7 +3,7 @@
 
 # Except these files
 !.gitignore
-!*.idr
 !*.md
-!*.markdown
-
+!README.md
+!katas/*/README.md
+!katas/*/*.idr

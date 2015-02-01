@@ -1,9 +1,3 @@
-# ignore everything
-*
-
-# Except these files
-!.gitignore
-!*.md
-!README.md
-!katas/*/README.md
-!katas/*/*.idr
+### Idris ###
+*.ibc
+*.o

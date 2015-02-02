@@ -2,27 +2,27 @@
 
 -- to run this:
 -- idris 99bottles.idr
--- > beersong 1
--- > beersong 99
--- > beersong 100 -- throws
+-- > beerSong 1
+-- > beerSong 99
+-- > beerSong 100 -- throws
 
-beersong : Fin 100 -> String
-beersong x = verses x where
+beerSong : Fin 100 -> String
+beerSong x = verses x where
 
-    -- invoke this in the CLI using `bottlesofbeer (the (Fin 10) 4)`
-    bottlesofbeer : Fin n -> String
-    bottlesofbeer fZ      = "No more bottles of beer"
-    bottlesofbeer (fS fZ) = "1 bottle of beer"
-    bottlesofbeer k       = (show (finToInteger k)) ++ " bottles of beer"
+    -- invoke this in the CLI using `bottlesOfBeer (the (Fin 10) 4)`
+    bottlesOfBeer : Fin n -> String
+    bottlesOfBeer fZ      = "No more bottles of beer"
+    bottlesOfBeer (fS fZ) = "1 bottle of beer"
+    bottlesOfBeer k       = (show (finToInteger k)) ++ " bottles of beer"
 
 
     verse : Fin n -> String 
     verse fZ     = ""
     verse (fS n) = 
-        (bottlesofbeer (fS n)) ++ " on the wall,\n" ++
-        (bottlesofbeer (fS n)) ++ "\n" ++
+        (bottlesOfBeer (fS n)) ++ " on the wall,\n" ++
+        (bottlesOfBeer (fS n)) ++ "\n" ++
         "Take one down, pass it around\n" ++
-        (bottlesofbeer n) ++ " on the wall\n"
+        (bottlesOfBeer n) ++ " on the wall\n"
 
     verses : Fin n -> String
     verses fZ     = ""
